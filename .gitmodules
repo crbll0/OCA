@@ -62,3 +62,8 @@
 	path = bryaneytor/comision-astur
 	url = git@github.com:bryaneytor/comision-astur.git
 	branch = main
+
+[submodule "bryaneytor/grow_modules"]
+	path = bryaneytor/grow_modules
+	url = git@github.com:bryaneytor/grow_modules.git
+	branch = main
