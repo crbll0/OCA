@@ -57,3 +57,8 @@
 	path = marjorie82/Construction
 	url = git@github.com:marjorie82/Construction.git
 	branch = main
+
+[submodule "bryaneytor/comision-astur"]
+	path = bryaneytor/comision-astur
+	url = git@github.com:bryaneytor/comision-astur.git
+	branch = main
