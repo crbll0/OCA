@@ -67,3 +67,8 @@
 	path = bryaneytor/grow_modules
 	url = git@github.com:bryaneytor/grow_modules.git
 	branch = main
+
+[submodule "indexa-git/l10n-dominicana"]
+	path = indexa-git/l10n-dominicana
+	url = git@github.com:indexa-git/l10n-dominicana.git
+	branch = 13.0
